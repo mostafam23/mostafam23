@@ -52,23 +52,8 @@ Experience with low-level graphics and real-time rendering in C.
 ## ⚡ Tech Arsenal  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=php&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=bash&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=csharp&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=aspnet&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=postman&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=time&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,c,js,nodejs,express,postgres,mysql,mongodb,redis,git,postman&theme=dark" />
 </p>
-
 
 ---
 
