@@ -69,16 +69,17 @@ Experience with low-level graphics and real-time rendering in C.
 
 ## 💡 Philosophy  
 
-Software is **logic turned into action**:  
-- Every module has its role.  
-- Every function must be purposeful.  
-- Every system must anticipate the future.  
+Software is **ideas transformed into action**:
+-Every module serves a clear purpose.
+-Every function is designed to solve a problem.
+-Every system is built to adapt and grow.
 
-I aim to build code that’s **robust, clean, and scalable**, ready for real-world challenges.  
+I strive to write code that is **reliable, elegant, and scalable**, ready to tackle real-world challenges.   
 
 ---
 
+
 <p align="center">
-  <strong>"The best code is the one that lasts and scales."</strong>
+  <strong>"Write code that works today and grows tomorrow."</strong>
 </p>
 
