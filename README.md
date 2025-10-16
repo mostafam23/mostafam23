@@ -34,11 +34,9 @@ I focus on **clean, scalable, and maintainable code**, solving problems that are
 
 ## 🚀 Projects  
 
-Here are some of the projects I’ve worked on:
-
 ### ⏰ [ClockWise](https://github.com/mostafam23/minishell)  
 > *Smart time-management platform for students.*  
-Built with PHP for the web and Java for mobile — helps students organize tasks, track progress, and study efficiently. 
+Built with PHP for the web and Java for mobile helps students organize tasks, track progress, and study efficiently. 
 
 ### 🐚 [Minishell](https://github.com/mostafam23/minishell)  
 > *Handcrafted UNIX shell in C.*  
