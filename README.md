@@ -52,7 +52,7 @@ Experience with low-level graphics and real-time rendering in C.
 ## ⚡ Tech Arsenal  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,php,sql,js,html,css,bash,csharp,aspnet,react,git,mysql,postgres,mongodb,redis,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,java,php,sql,js,html,css,bash,csharp,aspnet,react,git,mysql,postman&theme=dark" />
 </p>
 
 
