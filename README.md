@@ -1,7 +1,7 @@
 <!-- Next-Level Profile README - Mostafa Al Mohammad -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=37B37A&center=true&vCenter=true&width=900&lines=Mostafa%20Al%20Mohammad%20%E2%9A%A1;Back-End%20Engineer%20%7C%20Problem%20Solver%20%7C%2042%20Beirut%20Core;Computer%20Science%20Graduate%20%7C%20Code%20Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=37B37A&center=true&vCenter=true&width=900&lines=Mostafa%20El%20Mohammad%20%E2%9A%A1;Problem%20Solver%20%7C%2042%20Beirut%20Core;Computer%20Science%20Graduate%20%7C%20Code%20Architect" alt="Typing SVG" />
 </p>
 
 <h1 align="center">🖥️ Developer | Problem Solver | CS Graduate 🚀</h1>
