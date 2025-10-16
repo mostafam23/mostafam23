@@ -70,14 +70,13 @@ Experience with low-level graphics and real-time rendering in C.
 ## 💡 Philosophy  
 
 Software is **ideas transformed into action**:
--Every module serves a clear purpose.
--Every function is designed to solve a problem.
--Every system is built to adapt and grow.
+- Every module serves a clear purpose.
+- Every function is designed to solve a problem.
+- Every system is built to adapt and grow.
 
-I strive to write code that is **reliable, elegant, and scalable**, ready to tackle real-world challenges.   
+I strive to write code that is **reliable, elegant, and scalable**, ready to tackle real-world challenges. 
 
 ---
-
 
 <p align="center">
   <strong>"Write code that works today and grows tomorrow."</strong>
