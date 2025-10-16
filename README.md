@@ -49,7 +49,7 @@ Signals, processes, parsing, and execution handled from scratch.
 Experience with low-level graphics and real-time rendering in C.  
 
 
-## ⚡ Tech Arsenal  
+## ⚡ Toolbox  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,c,js,nodejs,php,react,mysql,cs,dotnet,github,html" />
