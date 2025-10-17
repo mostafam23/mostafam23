@@ -1,8 +1,9 @@
 <!-- 🧠 Next-Level GitHub Profile README - Mostafa Al Mohammad -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00FFB3&center=true&vCenter=true&width=1000&lines=Mostafa+Al+Mohammad+⚡;Problem+Solver+%7C+42+Beirut+Core+Student;Computer+Science+Graduate+%7C+Back-End+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00FFB3&center=true&vCenter=true&width=1000&lines=Mostafa%20Al%20Mohammad%20⚡;Problem%20Solver%20%7C%2042%20Beirut%20Core%20Student;Computer%20Science%20Graduate%20%7C%20Back-End%20Engineer" alt="Typing SVG" />
 </p>
+
 
 <h2 align="center">🧩 Developer | System Builder | Code Architect 🚀</h2>
 
