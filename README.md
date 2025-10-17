@@ -50,7 +50,7 @@ Experience with low-level graphics and real-time rendering in C.
 ## ⚡ Toolbox  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,js,nodejs,php,react,mysql,cs,dotnet,github,html" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,js,css,php,react,mysql,cs,dotnet,github,html" />
 </p>
 
 ---
