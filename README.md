@@ -1,84 +1,111 @@
-<!-- Next-Level Profile README - Mostafa Al Mohammad -->
+<!-- 🧠 Next-Level GitHub Profile README - Mostafa Al Mohammad -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=37B37A&center=true&vCenter=true&width=900&lines=Mostafa%20El%20Mohammad%20%E2%9A%A1;Problem%20Solver%20%7C%2042%20Beirut%20Core;Computer%20Science%20Graduate%20%7C%20Code%20Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00FFB3&center=true&vCenter=true&width=1000&lines=Mostafa+Al+Mohammad+⚡;Problem+Solver+%7C+42+Beirut+Core+Student;Computer+Science+Graduate+%7C+Back-End+Engineer" alt="Typing SVG" />
 </p>
 
-<h1 align="center">🖥️ Developer | Problem Solver | CS Graduate 🚀</h1>
+<h2 align="center">🧩 Developer | System Builder | Code Architect 🚀</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mostafa-el-mohammad-852741340" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <img src="https://komarev.com/ghpvc/?username=MOSTAFA-YOURUSERNAME&style=for-the-badge&color=blue" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/mostafa-el-mohammad-852741340" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="mailto:mostafa.almohammad.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=mostafam23&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
 
 ---
 
-## ⚔️ Who Am I?  
+## 🧭 About Me  
 
-I am **Mostafa Al Mohammad**, a computer science graduate passionate about **building systems that work efficiently and elegantly**.  
-Raised on **logic and programming**, sharpened by **42 Beirut**, where hands-on projects became my playground.  
+I’m **Mostafa Al Mohammad**, a **Computer Science graduate** and **42 Beirut Core student**, driven by the art of transforming ideas into functional, efficient, and elegant systems.  
 
-My main tools are **Java** and **C**, but I also love exploring **back-end development with modern frameworks**.  
-I focus on **clean, scalable, and maintainable code**, solving problems that are challenging yet rewarding.  
+I specialize in **back-end development**, focusing on **performance, scalability**, and **clean architecture** — crafting solutions that don’t just work, but endure.  
 
----
-
-## 🧭 My Journey  
-
-- 🎓 **Computer Science Graduate (Lebanese University, 2025)** → learned theory, applied logic, and developed technical skills.  
-- 🧠 **42 Beirut Student** → mastering project-based, peer-to-peer learning while building real-world software.  
-- 🛠 **Back-End Development** → creating efficient and reliable applications.  
-- 💡 **Problem Solver** → tackling algorithms, data structures, and complex systems design.  
+💬 *Code, for me, is more than syntax — it’s structure, logic, and purpose.*
 
 ---
 
-## 🚀 Projects  
+## 🧠 My Journey  
 
-### ⏰ [ClockWise](https://github.com/mostafam23/minishell)  
-> *Smart time-management platform for students.*  
-Built with PHP for the web and Java for mobile helps students organize tasks, track progress, and study efficiently. 
+- 🎓 **BSc in Computer Science – Lebanese University (2025)**  
+  Solid foundation in algorithms, logic, and software engineering.  
+
+- 💻 **42 Beirut Student**  
+  Mastering self-learning and peer-to-peer project collaboration through real-world challenges.  
+
+- ⚙️ **Back-End Engineer in Progress**  
+  Building structured and optimized systems with Java, C, and PHP.  
+
+- 🧩 **Problem Solver**  
+  Focused on algorithms, design patterns, and reliable architectures.  
+
+---
+
+## 🚀 Featured Projects  
 
 ### 🐚 [Minishell](https://github.com/mostafam23/minishell)  
-> *Handcrafted UNIX shell in C.*  
-Signals, processes, parsing, and execution handled from scratch.  
+> *A handcrafted UNIX shell in pure C.*  
+Implements process handling, parsing, redirections, and signals from scratch — mimicking Bash behavior.
+
+---
+
+### ⏰ [ClockWise](https://github.com/mostafam23/ClockWise)  
+> *A smart productivity and time-management platform.*  
+Built with **PHP** (backend) and **Java** (mobile) to help students organize and track their study flow efficiently.
+
+---
 
 ### 💣 [Cub3D](https://github.com/mostafam23/cub3D)  
-> *A 3D raycasting engine.*  
-Experience with low-level graphics and real-time rendering in C.  
+> *3D raycasting engine built from the ground up in C.*  
+Explored low-level graphics, rendering, and memory management for real-time visual experiences.  
 
+---
 
-## ⚡ Toolbox  
+## ⚡ Tech Arsenal  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,js,css,php,react,mysql,cs,dotnet,github,html" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,php,js,html,css,react,mysql,cs,dotnet,git,github,bash,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  🧰 *Languages:* C, C++, Java, PHP, JavaScript  
+  <br>
+  ⚙️ *Frameworks:* ASP.NET, React  
+  <br>
+  🗄️ *Databases:* MySQL  
+  <br>
+  🧠 *Tools:* Git, Postman, VS Code, IntelliJ, Linux
 </p>
 
 ---
 
-## 📊 My Stats  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mostafam23&show_icons=true&theme=radical&count_private=true&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafam23&theme=radical&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafam23&theme=redical&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafam23&theme=redical&hide_border=true&area=true" />
 </p>
 
 ---
 
 ## 💡 Philosophy  
 
-Software is **ideas transformed into action**:
-- Every module serves a clear purpose.
-- Every function is designed to solve a problem.
-- Every system is built to adapt and grow.
+> “Write code that not only solves problems, but creates possibilities.”  
 
-I strive to write code that is **reliable, elegant, and scalable**, ready to tackle real-world challenges. 
+I believe in **clarity over complexity**, **logic over luck**, and **elegance through efficiency**.  
+Every project is a new puzzle, and every solution should make the next one easier to solve.  
 
 ---
 
-<p align="center">
-  <strong>"Write code that works today and grows tomorrow."</strong>
-</p>
+<h3 align="center">🧠 Keep Learning. Keep Building. Keep Evolving. 🚀</h3>
 
+<p align="center">
+  <img src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" width="400"/>
+</p>
