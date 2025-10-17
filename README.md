@@ -105,5 +105,5 @@ Every project is a new puzzle, and every solution should make the next one easie
 <h3 align="center">🧠 Keep Learning. Keep Building. Keep Evolving. 🚀</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" width="400"/>
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="400"/>
 </p>
